@@ -15,14 +15,14 @@ display: inline-block;
 margin-right: 10px;
 width: 60px;
 height: 60px;
-background: darkblue;
+background: rgb(15, 4, 118);
 line-height: 60px;
 border-radius: 18px 0px;
 transition: 0.7s;
 }
 .social-icons ul li:hover{
     list-style-type: none;
-    background: color black;
+    background: rgb(241, 56, 10);
     border-radius: 0px 18px;
     transition: 0.7s;
 }
@@ -30,7 +30,7 @@ transition: 0.7s;
     text-align: center;
 }
 .social-icons ul li a i{
-color: white;
+color: rgb(250, 247, 247);
 font-size: 22px;
 transition: 0.7s;
 }
